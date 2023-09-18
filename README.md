@@ -1,10 +1,10 @@
-# Rup-Event Site
+# ezent-site
 
-Rup-Event-Site is built with React.
+creating unforgettable multi-sensorial experiences that combine art, technology, and music events. Discover the most exciting events of your life with ezent-site!
 
 ## Demo
 
-[Link](https://ezent.vercel.app/)
+[Link](https://ezent.vercel.app)
 
 ## Getting Started
 
